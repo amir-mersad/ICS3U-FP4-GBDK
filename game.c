@@ -19,7 +19,7 @@ void main() {
     DISPLAY_ON;
 
 
-    whiel(1) {
+    while(1) {
         scroll_bkg(1, 0);
         delay(100);
     }
